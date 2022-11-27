@@ -1,0 +1,10 @@
+# Ignoring the models
+*.h5
+
+# Ignoring folders
+.saturn
+.ipynb_checkpoints
+clothing-dataset-small
+
+# Ignoring core files
+core*
