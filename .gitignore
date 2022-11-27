@@ -5,6 +5,11 @@
 .saturn
 .ipynb_checkpoints
 clothing-dataset-small
+train
+test
 
 # Ignoring core files
 core*
+
+# Ignoring zip files
+*.zip
